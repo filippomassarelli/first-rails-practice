@@ -1,6 +1,6 @@
 # LEARNING RAILS WITH A CRUD APP
-<img src="https://www.pngfind.com/pngs/m/344-3440786_ruby-on-rails-png-png-download-ruby-on.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+<img src="https://aux3.iconspalace.com/uploads/656349831.png" align="right"
+     alt="ruby on rails" width="120">
 
 
 What was practiced:
