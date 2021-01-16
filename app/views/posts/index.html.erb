@@ -1,0 +1,9 @@
+<h1>All Posts</h1>
+
+<%= link_to "Write New", new_post_path %>
+
+<% @posts.each do |post| %>
+     <h1><%= post.title %></h1>
+     <p><%= truncate(post.body, :length => 35) %></p>
+    <%= link_to "Read Post", post %>
+<% end %>
