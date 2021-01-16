@@ -1,5 +1,5 @@
 # LEARNING RAILS WITH A CRUD APP
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-tdzom&psig=AOvVaw3FfFlrRo25z_tHNOgVCbIx&ust=1610888625025000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjAifXBoO4CFQAAAAAdAAAAABAJ" align="right"
+<img src="https://www.pngfind.com/pngs/m/344-3440786_ruby-on-rails-png-png-download-ruby-on.png" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 
