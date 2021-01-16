@@ -1,24 +1,19 @@
-# README
+# LEARNING RAILS WITH A CRUD APP
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-tdzom&psig=AOvVaw3FfFlrRo25z_tHNOgVCbIx&ust=1610888625025000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjAifXBoO4CFQAAAAAdAAAAABAJ" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+What was practiced:
 
-* Ruby version
+* Creating our Models, Views and Controllers
 
-* System dependencies
+* Linking those 3 up
 
-* Configuration
+* Routes to support CRUD functionalities
 
-* Database creation
+* Dynamic links to ease navigation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
