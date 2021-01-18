@@ -1,8 +1,8 @@
-# Todo React on Rails 
+# First Rails Practice
 <img src="https://aux3.iconspalace.com/uploads/656349831.png" align="right"
      alt="ruby on rails" width="250">
 
-## Learning to build a full stack app
+## Learning Rails with a blog app
 
 What was practiced:
 
